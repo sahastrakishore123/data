@@ -1,0 +1,64 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2 {
+    color: rgb(36, 104, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+}
+p {
+    color: black;
+    font-family: aerial;
+    font-size: 20px;
+   
+}
+.level1 {
+    background-color: dodgerblue;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 2px solid dodgerblue;
+    border-radius: 12px;
+    
+    
+}
+.level2 {
+    background-color: lightgray;
+    width: 300px;
+    margin-right: auto;
+    text-align: center;
+    border-left: 10px solid tomato;
+    float: left;
+    
+}
+.level3 {
+    background-color: aliceblue;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+ padding-left: 30px;
+
+    
+}
+body {
+    background-image: url(500_F_219679872_or7MuVy8RNmWIKZHqbdnzjQXU4JLN9v2.jpg);
+    
+    
+}
+
+    
+img {
+    float: right;
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 250px;
+    border-radius: 4px;
+}
+.header {
+    background-color: rgba(173, 245, 28, 0.534);
+}
